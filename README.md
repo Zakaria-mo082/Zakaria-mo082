@@ -8,11 +8,9 @@
 **[(PDF)](https://docs.google.com/document/d/1UjG5euFEnnxzX0TMxBxoxHbgAETYzBrTrUlvLaEnONg/edit?usp=sharing)**
 
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="ZakariaMohamed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect with me:
 
-[linkedin]:https://linkedin.com/in/zakaria-mohamed-74aa512b4
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-mohamed-74aa512b4/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
