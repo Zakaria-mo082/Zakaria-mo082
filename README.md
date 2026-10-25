@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity / Networking  Projects:</h2>
 
-- <b> Active Directory Home Lab (https://github.com/Zakaria-mo082/ActiveDirectory-Lab)
+
 
 - <b> Microsoft365 Admin Lab 
 **[(PDF)](https://docs.google.com/document/d/1UjG5euFEnnxzX0TMxBxoxHbgAETYzBrTrUlvLaEnONg/edit?usp=sharing)**
