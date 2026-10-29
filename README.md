@@ -12,6 +12,11 @@
   * Configured local HTTPS termination using Caddy 2 reverse proxy and capped host hardware usage (`.wslconfig`).
   * Hardened deployment security (`SIGNUPS_ALLOWED=false`) and resolved inter-container DNS bridge networking in Portainer.
 
+### 🌐 Featured Project: Multi-Site Enterprise Network Lab
+A simulated multi-site enterprise network featuring a Headquarters and Branch site, configured with VLAN segmentation, Router-on-a-Stick, and OSPF dynamic routing.
+
+- **Key Tech:** Cisco IOS, Packet Tracer, OSPF, VLANs, 802.1Q Trunking
+
 
 ## 🤳 Connect with me:
 
