@@ -3,9 +3,15 @@
 <h2>👨‍💻 Cybersecurity / Networking  Projects:</h2>
 
 
+### ☁️ Featured Project: Microsoft 365 & Entra ID Administration Lab
+Designed, deployed, and administered a cloud-only Microsoft 365 tenant simulating a small business environment for 20+ users. Demonstrates hands-on expertise in Microsoft Entra ID user provisioning, departmental group/Teams architecture, role-based access control (RBAC), and OneDrive administration. Executed real-world emergency account isolation controls, revoking active sessions, preserving user data, and deprovisioning licenses during offboarding procedures.
+
+- **Key Tech:** Microsoft Entra ID, Microsoft 365 Admin Center, RBAC, User Lifecycle Management, Session Revocation, OneDrive Admin
 
 - <b> Microsoft365 Admin Lab 
 **[(PDF)](https://docs.google.com/document/d/1UjG5euFEnnxzX0TMxBxoxHbgAETYzBrTrUlvLaEnONg/edit?usp=sharing)**
+
+
 
 
 * 🔒 **[Self-Hosted Vaultwarden Stack](https://github.com/Zakaria-mo082/vaultwarden-docker-lab)** – Resource-optimized, self-hosted password management infrastructure built on Docker Desktop & WSL2. 
